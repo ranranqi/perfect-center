@@ -1,0 +1,13 @@
+.parent{
+    height: 900px;
+    background: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child{
+    font-size: 200px;
+    border: 1px solid red;
+    color: blue;
+}
